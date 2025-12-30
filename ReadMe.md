@@ -69,7 +69,7 @@ The system can be extended to support weighted grades, report exports, or databa
 ```text
 project/
 ├── project.py
-├── test_project.py
+├── test_pj.py
 ├── requirements.txt
 ├── students.json
 └── README.md
