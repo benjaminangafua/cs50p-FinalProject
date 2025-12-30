@@ -1,6 +1,6 @@
 # Student Performance Tracker
 
-**Abstract**
+**Abstract** <br>
 Student Performance Tracker: A command-line Python program for tracking student scores, averages, grades, and rankings with persistent JSON storage.
 
 **Persistent Storage**
