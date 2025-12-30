@@ -77,7 +77,7 @@ project/
 
 **Author**
 
-_Benjamin A. Ngafua_
+_Benjamin A. Ngafua_ <br>
 CS50P Final Project
 
 **Declaration**
