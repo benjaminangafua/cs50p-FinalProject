@@ -39,7 +39,7 @@ Core logic is tested with pytest to ensure correct averages, grading, and pass/f
 To run the test suite:
 
 ```sh
-pytest test_project.py
+pytest test_pj.py
 ```
 
 **Technology Stack**
