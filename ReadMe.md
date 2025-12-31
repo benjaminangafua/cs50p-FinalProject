@@ -1,5 +1,14 @@
 # Student Performance Tracker
 
+**Author**
+
+_Benjamin A. Ngafua_ <br>
+CS50P Final Project
+
+### Project Demo
+
+[Watch The Project Demo](https://youtu.be/duuDKd0WvTM)
+
 **Abstract** <br>
 Student Performance Tracker: A command-line Python program for tracking student scores, averages, grades, and rankings with persistent JSON storage.
 
@@ -74,11 +83,6 @@ project/
 ├── students.json
 └── README.md
 ```
-
-**Author**
-
-_Benjamin A. Ngafua_ <br>
-CS50P Final Project
 
 **Declaration**
 
