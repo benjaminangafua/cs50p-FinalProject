@@ -57,7 +57,14 @@ The project uses Python 3.10+, standard library modules (`json`, `os`), and pyte
 
 **Execution Instructions**
 
-Ensure Python 3.10 or newer is installed. Navigate to the project root directory and execute the program using the following command:
+Setup a virtual environment to run the test:
+
+```sh
+python3 -m venv venv
+source venv/bin/activate
+```
+
+Ensure Python 3.11 or newer is installed. Navigate to the project root directory and execute the program using the following command:
 
 ```sh
 python project.py
